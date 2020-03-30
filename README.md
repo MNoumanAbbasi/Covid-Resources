@@ -10,5 +10,11 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 ## Online Courses
 
-* Coursera for Campus available for free to any University impacted. [Details here](https://www.coursera.org/coronavirus).  
+* **Coursera for Campus:** Available for free to any University impacted. [Details here](https://www.coursera.org/coronavirus).
   * Benefits: Access 3,800 courses and 400 Specializations.
+  
+* **Codecademy:** Scholarships for students affected by COVID-19. [Details here](https://pro.codecademy.com/learn-from-home/).
+  * Benefits: 10,000 scholarships to Codecademy Pro for free to students across the world for the rest of the school year.
+
+* **OpenClassrooms:** Available to all higher education institutions and professional training organizations. [Details here](https://openclassrooms.com/en/p/academic-continuity).
+  * Benefits: Catalog of hundreds of online courses and free use of SPARK licenses to the institutions.
