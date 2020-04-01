@@ -6,7 +6,7 @@ As a result of the coronavirus (Covid-19) pandemic, organizations including seve
 
 This repositry serves as a way to gather all these resources/services in one place. Although anyone can benefit from it, it is intended  for students and learners.  
 
-*If you are bored and have nothing to do, this repositry is for you. Utilize this time to learn new skills and benefit from the numerous services and learning resources made available. Remember to stay home and stay safe!*
+*If you are bored and have nothing to do, this repository is for you. Utilize this time to learn new skills and benefit from the numerous services and learning resources made available. Remember to stay home and stay safe!*
 
 ## Online Courses
 
@@ -19,5 +19,5 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **OpenClassrooms:** Available to all higher education institutions and professional training organizations. [Details here](https://openclassrooms.com/en/p/academic-continuity).
   * Benefits: Catalog of hundreds of online courses and free use of SPARK licenses to the institutions.
 
-* **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid)
+* **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid).
   * Benefits: High-paid computer science courses made free for all.
