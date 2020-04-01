@@ -18,3 +18,6 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 * **OpenClassrooms:** Available to all higher education institutions and professional training organizations. [Details here](https://openclassrooms.com/en/p/academic-continuity).
   * Benefits: Catalog of hundreds of online courses and free use of SPARK licenses to the institutions.
+
+* **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid)
+  * Benefits: High-paid computer science courses made free for all.
