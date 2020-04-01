@@ -21,3 +21,7 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 * **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid).
   * Benefits: High-paid computer science courses made free for all.
+  
+### Contribute
+
+If you have any similar resource, please consider contributing as well. 
