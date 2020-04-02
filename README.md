@@ -22,6 +22,12 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid).
   * Benefits: High-paid computer science courses made free for all.
   
+## Online Books (Ebooks)
+
+* **Open Library:** National Emergency Library to provide digitized books to students and the public. [Details here](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/).
+  * Benefits: 1.4 million copyrighted books for free online. Waitlists suspended.
+
+
 ### Contribute
 
 If you have any similar resource, please consider contributing as well. 
