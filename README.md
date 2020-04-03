@@ -21,6 +21,9 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 * **BitDegree:** Courses made available for all till April 13th. [Details here](https://www.bitdegree.org/tag/covid).
   * Benefits: High-paid computer science courses made free for all.
+
+* **Pluralsight:** Build in-demand tech skills without leaving your house. [Details here](https://www.pluralsight.com/offer/2020/free-april-month).
+  * Benefits: Free access to 7,000+ expert-led video courses and more for the entire month of April.
   
 ## Online Books (Ebooks)
 
