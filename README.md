@@ -24,7 +24,9 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 * **Pluralsight:** Build in-demand tech skills without leaving your house. [Details here](https://www.pluralsight.com/offer/2020/free-april-month).
   * Benefits: Free access to 7,000+ expert-led video courses and more for the entire month of April.
-  
+* **Microsoft Office 365:** Making the transition to remote learning with Office 365 [Details here](https://www.microsoft.com/en-us/education/remote-learning).
+  * Benefits: Office 365 Online Apps free and Microsoft Teams free for schools and universities.
+
 ## Online Books (Ebooks)
 
 * **Open Library:** National Emergency Library to provide digitized books to students and the public. [Details here](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/).
