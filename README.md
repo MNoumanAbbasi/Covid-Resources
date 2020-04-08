@@ -32,6 +32,8 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **Open Library:** National Emergency Library to provide digitized books to students and the public. [Details here](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/).
   * Benefits: 1.4 million copyrighted books for free online. Waitlists suspended.
 
+* **Blinkist:** Read the key lessons from 3000+ nonfiction books in 15 min or fewer. Sign up free.
+ * Benefits: Free upgrade to premium admist coronavirus pandemic.
 
 ### Contribute
 
