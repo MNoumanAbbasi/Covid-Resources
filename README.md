@@ -8,7 +8,7 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 *If you are bored and have nothing to do, this repository is for you. Utilize this time to learn new skills and benefit from the numerous services and learning resources made available. Remember to stay home and stay safe!*
 
-## Online Courses
+## 🏛 Online Courses
 
 * **Coursera for Campus:** Available for free to any University impacted. [Details here](https://www.coursera.org/coronavirus).
   * Benefits: Access 3,800 courses and 400 Specializations.
@@ -28,19 +28,20 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **Oracle:** Oracle Ramps Up Free Online Learning and Certifications for Oracle Cloud Infrastructure and Oracle Autonomous Database. [Details here](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html).
   * Benefits: Free access to more than 50 hours of online training and 6 certification exams.
 * **IBM Training & Skills:** Free Training to Update Skills. [Details here](https://www.ibm.com/blogs/ibm-training/free-training-to-update-skills/).
-  * Benefits: Free access to courses including IBM Cloud, IBM Watson, IBM Systems, IBM Professional skills and more.
-## Services
+  * Benefits: Free access to courses including IBM Cloud, IBM Watson, IBM Systems, IBM Professional skills and more
+
+## 💻 Services
 
 * **Microsoft Office 365:** Making the transition to remote learning with Office 365 [Details here](https://www.microsoft.com/en-us/education/remote-learning).
   * Benefits: Office 365 Online Apps free and Microsoft Teams free for schools and universities.
 
-## Online Books (Ebooks)
+## 📚 Online Books (Ebooks)
 
 * **Open Library:** National Emergency Library to provide digitized books to students and the public. [Details here](http://blog.archive.org/2020/03/24/announcing-a-national-emergency-library-to-provide-digitized-books-to-students-and-the-public/).
   * Benefits: 1.4 million copyrighted books for free online. Waitlists suspended.
 
 * **Blinkist:** Read the key lessons from 3000+ nonfiction books in 15 min or fewer. Sign up free.
- * Benefits: Free upgrade to premium admist coronavirus pandemic.
+  * Benefits: Free upgrade to premium admist coronavirus pandemic.
 
 ### Contribute
 
