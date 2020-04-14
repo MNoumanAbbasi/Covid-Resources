@@ -30,9 +30,12 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **IBM Training & Skills:** Free Training to Update Skills. [Details here](https://www.ibm.com/blogs/ibm-training/free-training-to-update-skills/).
   * Benefits: Free access to courses including IBM Cloud, IBM Watson, IBM Systems, IBM Professional skills and more
 
+* **jsComplete:** Use discount code COVID19 to take 30% off anything at jsComplete. [Details here](https://jscomplete.com/learn).
+  * Benefits: Learn Modern Full-stack JavaScript with Node, React, GraphQL, and more.
+
 ## 💻 Services
 
-* **Microsoft Office 365:** Making the transition to remote learning with Office 365 [Details here](https://www.microsoft.com/en-us/education/remote-learning).
+* **Microsoft Office 365:** Making the transition to remote learning with Office 365. [Details here](https://www.microsoft.com/en-us/education/remote-learning).
   * Benefits: Office 365 Online Apps free and Microsoft Teams free for schools and universities.
 
 ## 📚 Online Books (Ebooks)
