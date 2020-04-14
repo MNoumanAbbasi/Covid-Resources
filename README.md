@@ -37,6 +37,9 @@ This repositry serves as a way to gather all these resources/services in one pla
 
 * **Microsoft Office 365:** Making the transition to remote learning with Office 365. [Details here](https://www.microsoft.com/en-us/education/remote-learning).
   * Benefits: Office 365 Online Apps free and Microsoft Teams free for schools and universities.
+  
+* **GitHub:** GitHub is now free for teams. [Details here](https://github.blog/2020-04-14-github-is-now-free-for-teams/).
+  * Benefits: All of the core GitHub features are now free for everyone.
 
 ## 📚 Online Books (Ebooks)
 
