@@ -33,6 +33,12 @@ This repositry serves as a way to gather all these resources/services in one pla
 * **jsComplete:** Use discount code COVID19 to take 30% off anything at jsComplete. [Details here](https://jscomplete.com/learn).
   * Benefits: Learn Modern Full-stack JavaScript with Node, React, GraphQL, and more.
 
+* **Educative:** Level up your coding skills, quickly and efficiently. [Details here](https://www.educative.io/covid-scholarship).
+  * Benefits: Free access to the learning track 'Become a Frontend Developer', worth over $115.
+
+* **Udacity:** Learnt the latest tech skills and advance your career. [Detail here](https://www.udacity.com/courses/all).
+  * Benefits: Get a special discount on any Nanodegree program. Available worldwide.
+
 ## 💻 Services
 
 * **Microsoft Office 365:** Making the transition to remote learning with Office 365. [Details here](https://www.microsoft.com/en-us/education/remote-learning).
